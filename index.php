@@ -15,6 +15,6 @@
               echo "Өнөөдөр бол " . date("Y/m/d");
              ?></span>
     <p>
-      <p> turshilt </p>
+      <p> turshilt sainuu  </p>
   </body>
 </html>
